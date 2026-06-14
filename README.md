@@ -34,6 +34,8 @@ As análises realizadas incluíram:
 
 O gráfico de setores foi utilizado para analisar a distribuição dos tipos de usuários que utilizam os carregadores.
 
+<img width="801" height="871" alt="image" src="https://github.com/user-attachments/assets/9d5555fc-facd-4fa5-8458-909c70dc509b" />
+
 ### Insight Principal
 
 A distribuição dos perfis de usuários permite identificar quais segmentos utilizam com maior frequência a infraestrutura de recarga. Essas informações podem orientar estratégias de expansão, marketing e personalização de serviços.
@@ -50,6 +52,8 @@ A distribuição dos perfis de usuários permite identificar quais segmentos uti
 
 O gráfico de barras foi utilizado para analisar a quantidade de sessões de recarga ao longo dos diferentes períodos do dia.
 
+<img width="1000" height="673" alt="image" src="https://github.com/user-attachments/assets/f3b764ef-41e0-4cca-82bc-f00ceb94f3e3" />
+
 ### Insight Principal
 
 A concentração de recargas em determinados períodos evidencia horários de pico, permitindo identificar momentos de maior demanda energética.
@@ -65,6 +69,7 @@ A concentração de recargas em determinados períodos evidencia horários de pi
 ## Histograma — Energy Consumed (kWh)
 
 O histograma permitiu visualizar a distribuição da energia consumida durante as sessões de carregamento.
+<img width="1004" height="670" alt="image" src="https://github.com/user-attachments/assets/9779fce9-3090-4b1e-a1d6-9a84b2612817" />
 
 ### Insight Principal
 
@@ -81,6 +86,7 @@ A distribuição dos consumos evidencia diferentes perfis de utilização dos ca
 ## Boxplot — Charging Duration (hours)
 
 O boxplot foi utilizado para analisar a duração das sessões de carregamento e identificar possíveis valores atípicos.
+<img width="999" height="671" alt="image" src="https://github.com/user-attachments/assets/7fd09447-717e-44e4-a7db-c00b44ed8663" />
 
 ### Insight Principal
 
